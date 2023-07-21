@@ -13,7 +13,7 @@ def generate_menu_keyboard():
 
 @dp.message_handler(commands='start')
 async def start(message: types.Message):
-    await message.answer("Здравствуйте! Этот бот создан GVNZO.", reply_markup=generate_menu_keyboard())
+    await message.answer("Здравствуйте! Это Тестовый Бот созданый GVNZO-crypto.В дальнейшем функционал будет расширен.", reply_markup=generate_menu_keyboard())
 
 @dp.message_handler(text='Угадай число')
 async def on_start(message: types.Message):
