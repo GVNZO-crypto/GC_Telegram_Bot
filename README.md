@@ -1,4 +1,3 @@
-# GC_Telegram_Bot
 # Телеграмм бот "GVNZO_Bot"
 
 ## Описание
