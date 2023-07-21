@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 ```python
 # token.py
-token = "YOUR_TELEGRAM_BOT_TOKEN"
+token = "OUR_TELEGRAM_BOT_TOKEN"
 ```
 P.S Для получения Токена, свяжитесь с владельцем.
 
