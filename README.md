@@ -36,10 +36,10 @@ git clone https://github.com/GVNZO-crypto/GC_Telegram_Bot.git
 pip install -r requirements.txt
 ```
 
-3. Создайте файл `token_1.py` и укажите токен нашего Телеграмм бота:
+3. Создайте файл `config.py` и укажите токен нашего Телеграмм бота:
 
 ```python
-# token_1.py
+# config.py
 token = "OUR_TELEGRAM_BOT_TOKEN"
 ```
 P.S Для получения Токена, свяжитесь с владельцем.
